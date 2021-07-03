@@ -2235,7 +2235,7 @@ body{
   .application__bgr-line {
     position: absolute;
     z-index: 3;
-    top: 30px;
+    top: -292px;
     right: 0;
     opacity: 1;
 }
